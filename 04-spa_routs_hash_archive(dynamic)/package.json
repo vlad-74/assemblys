@@ -1,0 +1,24 @@
+{
+  "name": "04-dynamic-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "assets-webpack-plugin": "^3.5.1",
+    "bundle-loader": "^0.5.5",
+    "copy-webpack-plugin": "^4.0.1",
+    "html-webpack-plugin": "^2.30.1",
+    "node-static": "^0.7.10",
+    "rimraf": "^2.6.2",
+    "webpack": "^1.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "wbk-dev-s": "set NODE_ENV=development&set NODE_ARCH=1&set NODE_WATCH=0&webpack&node server.js",
+    "wbk-dev-wat": "set NODE_ENV=development&set NODE_ARCH=1&set NODE_WATCH=1&webpack",
+    "wbk-pro": "set NODE_ENV=production&set NODE_ARCH=0&set NODE_WATCH=0&webpack&node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

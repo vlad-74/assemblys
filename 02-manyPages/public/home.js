@@ -1,0 +1,1 @@
+var home=webpackJsonp_name_([2],[function(e,a,t){"use strict";var o=t(1).default,u=t(2),c=o(u);(0,c.default)("home"),a.welcome=c.default}]);

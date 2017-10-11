@@ -1,0 +1,1 @@
+var about=webpackJsonp_name_([0],[function(a,e,t){"use strict";var u=t(1).default,o=t(2),c=u(o);(0,c.default)("about"),e.welcome=c.default}]);

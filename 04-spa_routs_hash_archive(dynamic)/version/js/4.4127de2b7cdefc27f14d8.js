@@ -1,0 +1,1 @@
+webpackJsonp([4],{9:function(t,e){"use strict";t.exports=function(){var t="2.13.3",e="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, et.";alert(t),alert(e)}}});

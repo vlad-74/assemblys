@@ -1,0 +1,1 @@
+webpackJsonp([1],[,function(t,n){"use strict";t.exports=function(){alert("login")}},function(t,n){"use strict";t.exports=function(){alert("logout")}}]);
